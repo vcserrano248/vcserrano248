@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vcserrano248
-- 👀 I’m interested in engineering, mathematics, physics, research, topology, morphology, structural optimization
-- 🌱 I’m currently learning programming, data analysis, ML, AI, theoretical mathematics
-- 💞 I’m looking to collaborate on software development, data analysis
+- 👀 I’m interested in engineering, data analytics, storytelling, ML, structural optimization.
+- 🌱 I would like to know more about theoretical mathematics, sound engineering, quantum physics.
+- ✨ On my free time I like to read, doodle, learn french/german, music theory.
 - 📫 How to reach me vcserrano248@gmail.com
 
 <!---
