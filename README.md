@@ -5,7 +5,7 @@
 - 🐍 Working daily with **Python · SQL · ETL pipelines · Azure**
 - 🔧 I turn raw sensor data and engineering records into clean, actionable datasets
 - 📚 Currently completing **TripleTen Data Analysis Bootcamp** — leveling up toward data engineering
-- 🍁 Actively seeking **remote data roles in Canada** (open to sponsorship)
+- 🍁 Actively seeking **remote data roles in Canada** (open to relocation)
 - 🌐 Languages: Spanish 🇪🇸 · English 🇬🇧 · French 🇫🇷 · German 🇩🇪
 
 ---
