@@ -2,22 +2,23 @@
 
 - 🏗️ Civil & Structural Engineer turned **Data Analyst → Data Engineer**
 - 📡 2+ years building **real-time IoT data pipelines** for infrastructure monitoring
-- 🐍 Working daily with **Python · SQL · ETL pipelines · Azure**
+- 🐍 Working daily with **Python · SQL · ETL pipelines **
 - 🔧 I turn raw sensor data and engineering records into clean, actionable datasets
 - 📚 Currently completing **TripleTen Data Analysis Bootcamp** — leveling up toward data engineering
-- 🍁 Actively seeking **remote data roles in Canada** (open to relocation)
-- 🌐 Languages: Spanish 🇪🇸 · English 🇬🇧 · French 🇫🇷 · German 🇩🇪
+- 🍁 Actively seeking **remote data roles** (open to relocation · Express Entry NOC 21300)
+- 🌐 Languages: Spanish 🇪🇸 (native) · English 🇬🇧 (C1) · French 🇫🇷 (B1) · German 🇩🇪 (B1)
 
 ---
 
 ## 🛠️ Stack
 
 ```text
-Languages   Python · SQL
-Data        Pandas · ETL Pipelines · Data Validation · Statistical Analysis
-Cloud       Azure · Power Apps
-Engineering IoT Systems · Structural Monitoring · Sensor Data · Revit/Dynamo
-Other       Web Scraping · VBA · Technical Documentation
+Languages   Python · SQL · C++ · Java
+Data        Pandas · ETL Pipelines · Data Validation · Statistical Analysis · NumPy · SciPy · Matplotlib · Seaborn
+Cloud       Azure · Power Apps · Sharepoint
+Engineering IoT Systems · Infrastructure Monitoring · Sensor Data · AutoCAD · Revit · Technical Documentation
+IA          Claude · Vercel · Gemini · ChatGPT
+Other       Web Scraping · Digital fabrication · Tinkercad · 3D printing · Laser cutting
 ```
 
 ---
