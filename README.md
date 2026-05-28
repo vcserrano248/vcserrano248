@@ -26,6 +26,7 @@ Other       Web Scraping · VBA · Technical Documentation
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Vault Displacement Analysis Pipeline](https://github.com/vcserrano248/ARCE-Tenders-Scraper) | Data Pipeline & Environmental Correlation Analysis for Heritage Masonry Vaults — Structural Health Monitoring (SHM), Statistical Analysis, Geometric filtering, Chauvenet Criterion, IQR analysis, Pearson correlation | Python · Jupyter · Git |
 | [ARCE Tenders Scraper](https://github.com/vcserrano248/ARCE-Tenders-Scraper) | Automated scraper for public infrastructure tenders — RSS parsing, keyword filtering, Excel export | Python |
 | [Mandelbrot Fractal Visualizer](https://github.com/vcserrano248/Mandelbrot-Fractal-Visualizer) | Interactive fractal explorer with infinite zoom — Mandelbrot, Julia, Burning Ship sets | Python · Flask |
 
